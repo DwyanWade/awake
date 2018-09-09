@@ -1,0 +1,3 @@
+/app/config/
+/app/**/__pycache__/
+/fake.py
